@@ -1,0 +1,6 @@
+  The Open Source For Beginner
+
+1. Enter the name
+2. Age
+3. School
+4. Phone Number
